@@ -80,7 +80,7 @@ export const TextDecrypt = (props) => {
     return (
         <p>
             {result}
-            {" "}
+            {"Welcome to the world of Ai. Good luck."}
         </p>
     );
 };
