@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "Ai Life",
+        "name": "",
         "label": "Ai Life",
         "email": "hey@jolienhoop.com",
         "phone": "(XXX) XXX-XXXX",
@@ -14,7 +14,7 @@
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "ERC",
+            "city": "BSC",
             "country": "Artificial Intelligence",
             "countryCode": "DEU",
             "region": ""
