@@ -5,7 +5,7 @@
         "email": "hey@jolienhoop.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
-        "x_title": "Welcome to Ai Life",
+        "x_title": "Kirby On Solana",
         "job": "differnt type of finance",
         "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
         "summary": "based in Bremen, Germany.",
@@ -14,8 +14,8 @@
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "BSC",
-            "country": "Artificial Intelligence",
+            "city": "Kirby",
+            "country": "Solana",
             "countryCode": "DEU",
             "region": ""
         },
